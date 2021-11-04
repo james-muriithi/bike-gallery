@@ -25,3 +25,9 @@ h1.title>span {
         height: 100%;
     }
 }
+
+@media screen and (min-width: 767px) {
+    .fs-md-5 {
+        font-size: 1.25rem!important;
+    }
+}
