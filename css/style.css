@@ -1,12 +1,27 @@
-body{
+body {
     font-family: 'Nunito', sans-serif;
-    --primary-color: #FF8521
+    --primary-color: #FF8521;
+    --secondary-color: #F68620;
 }
 
-#app{
+#app {
     overflow-x: hidden;
 }
 
-h1.title>span{
+h1.title>span {
     color: var(--primary-color);
+}
+
+.btn-gallery {
+    border-color: var(--secondary-color);
+    color: var(--secondary-color);
+}
+
+@media screen and (min-width: 1100px) {
+    img.bicycle {
+        max-height: 550px;
+    }
+    #home .align-items-lg-end {
+        height: 100%;
+    }
 }
