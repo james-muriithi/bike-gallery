@@ -1,0 +1,12 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    --primary-color: #FF8521
+}
+
+#app{
+    overflow-x: hidden;
+}
+
+h1.title>span{
+    color: var(--primary-color);
+}
