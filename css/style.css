@@ -16,7 +16,7 @@ h1.title>span {
     border-color: var(--secondary-color);
     color: var(--secondary-color);
 }
-
+footer,
 #how-it-works {
     background-color: #FDFBFA;
 }
