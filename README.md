@@ -5,7 +5,7 @@ Hire bicycles and ride them as long as you like.
 We provide our customers with a wide variety of bicycles to hire. You only need to create an account to hire a bicycle.
 
 ## Demo
-[Here](james-muriithi.github.io/bike-gallery) is the link to the demo.
+[Here](https://james-muriithi.github.io/bike-gallery) is the link to the demo.
 
 ## Technologies Used
 1. HTML
