@@ -17,6 +17,10 @@ h1.title>span {
     color: var(--secondary-color);
 }
 
+#how-it-works{
+    background-color: #FDFBFA;
+}
+
 @media screen and (min-width: 1100px) {
     img.bicycle {
         max-height: 550px;
